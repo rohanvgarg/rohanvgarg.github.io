@@ -164,7 +164,7 @@ pre {
 .site-nav .page-link {
   color: #111;
   line-height: 1.5;
-  padding: 8px 0;
+  padding: 2px 0;
   display: inline-block; }
   .site-nav .page-link:not(:last-child) {
     margin-right: 20px; }
